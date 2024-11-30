@@ -46,3 +46,6 @@ plt.tight_layout()  # Adjust layout to prevent overlapping
 plt.savefig('CaliforniaInformation.png', bbox_inches='tight')
 
 plt.show()
+
+
+![CaliforniaInformation](https://github.com/user-attachments/assets/8af3621c-0eaf-47d7-bada-4f5d4f3513d3)
